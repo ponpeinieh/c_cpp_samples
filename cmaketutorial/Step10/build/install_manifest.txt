@@ -1,0 +1,6 @@
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/..\\..\\instal/bin/Tutorial.exe
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/..\\..\\instal/include/TutorialConfig.h
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/..\\..\\instal/lib/MathFunctions.lib
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/..\\..\\instal/lib/MathFunctions.dll
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/..\\..\\instal/lib/SqrtLibrary.lib
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/..\\..\\instal/include/MathFunctions.h

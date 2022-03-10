@@ -1,0 +1,4 @@
+C:/Users/Darthur/projects/c++/cmaketutorial/step2/build/CMakeFiles/Tutorial.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/step2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/step2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/step2/build/MathFunctions/CMakeFiles/MathFunctions.dir

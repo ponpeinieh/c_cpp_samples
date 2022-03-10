@@ -1,0 +1,8 @@
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/CMakeFiles/Tutorial.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/CMakeFiles/INSTALL.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/MathFunctions/CMakeFiles/MakeTable.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/MathFunctions/CMakeFiles/INSTALL.dir

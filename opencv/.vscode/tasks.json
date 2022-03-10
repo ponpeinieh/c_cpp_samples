@@ -1,0 +1,46 @@
+{
+	"version": "2.0.0",
+	"windows": {
+		"options": {
+		  "shell": {
+			"executable": "cmd.exe",
+			"args": [
+			  "/C",
+			  // The path to VsDevCmd.bat depends on the version of Visual Studio you have installed.
+			  "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Auxiliary\\Build\\vcvars64.bat\"",
+			  "&&"
+			]
+		  }
+		}
+	},
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: cl.exe 建置使用中檔案",
+			"command": "cl.exe",
+			"args": [
+				"/Zi",
+				"/EHsc",
+				"/nologo",
+				"/Fe:",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe",
+				"${file}",
+				"/I",
+				"C:\\progs\\opencv\\opencv\\build\\include",
+				"/link",
+				"C:\\progs\\opencv\\opencv\\build\\x64\\vc15\\lib\\opencv_world454.lib"
+			],
+			"options": {
+				"cwd": "${fileDirname}"
+			},
+			"problemMatcher": [
+				"$msCompile"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "編譯器: cl.exe"
+		}
+	]
+}

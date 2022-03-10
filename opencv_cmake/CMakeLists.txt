@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.0.0)
+project(myopencv VERSION 0.1.0)
+add_executable(myopencv helloworld.cpp)
+find_package(OpenCV REQUIRED)
+target_include_directories(myopencv PRIVATE ${OpenCV_INCLUDE_DIRS})
+target_link_libraries(myopencv PRIVATE ${OpenCV_LIBS})

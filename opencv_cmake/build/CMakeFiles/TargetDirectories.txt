@@ -1,0 +1,3 @@
+C:/Users/Darthur/projects/c++/opencv_cmake/build/CMakeFiles/myopencv.dir
+C:/Users/Darthur/projects/c++/opencv_cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/Darthur/projects/c++/opencv_cmake/build/CMakeFiles/rebuild_cache.dir

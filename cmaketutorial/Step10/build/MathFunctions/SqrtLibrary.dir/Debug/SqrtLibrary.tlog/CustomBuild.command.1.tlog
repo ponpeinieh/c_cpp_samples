@@ -1,0 +1,20 @@
+^C:\USERS\DARTHUR\PROJECTS\C++\CMAKETUTORIAL\STEP10\BUILD\CMAKEFILES\F924C3417FB27D3FACE441B26446EB0A\TABLE.H.RULE
+setlocal
+..\Debug\MakeTable.exe C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/MathFunctions/Table.h
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\DARTHUR\PROJECTS\C++\CMAKETUTORIAL\STEP10\MATHFUNCTIONS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Darthur/projects/c++/cmaketutorial/Step10 -BC:/Users/Darthur/projects/c++/cmaketutorial/Step10/build --check-stamp-file C:/Users/Darthur/projects/c++/cmaketutorial/Step10/build/MathFunctions/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

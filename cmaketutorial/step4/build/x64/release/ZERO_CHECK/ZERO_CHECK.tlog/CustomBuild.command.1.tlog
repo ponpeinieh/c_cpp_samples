@@ -1,0 +1,10 @@
+^C:\USERS\DARTHUR\PROJECTS\C++\CMAKETUTORIAL\STEP4\BUILD\CMAKEFILES\126EB2FF5A15C02981A06AB3D9CFE33C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Darthur/projects/c++/cmaketutorial/step4 -BC:/Users/Darthur/projects/c++/cmaketutorial/step4/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Darthur/projects/c++/cmaketutorial/step4/build/Tutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

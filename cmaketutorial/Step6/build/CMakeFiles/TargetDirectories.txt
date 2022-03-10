@@ -1,0 +1,8 @@
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/CMakeFiles/Tutorial.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/CMakeFiles/INSTALL.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/MathFunctions/CMakeFiles/INSTALL.dir
+C:/Users/Darthur/projects/c++/cmaketutorial/Step6/build/MathFunctions/CMakeFiles/RUN_TESTS.dir

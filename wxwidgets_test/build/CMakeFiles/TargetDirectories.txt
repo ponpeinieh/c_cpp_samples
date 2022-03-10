@@ -1,0 +1,3 @@
+C:/Users/Darthur/projects/c++/wxwidgets_test/build/CMakeFiles/mywx.dir
+C:/Users/Darthur/projects/c++/wxwidgets_test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Darthur/projects/c++/wxwidgets_test/build/CMakeFiles/ZERO_CHECK.dir

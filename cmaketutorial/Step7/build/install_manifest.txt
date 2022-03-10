@@ -1,0 +1,4 @@
+C:/Users/Darthur/projects/c++/cmaketutorial/Step7/build/..\\..\\install/bin/Tutorial.exe
+C:/Users/Darthur/projects/c++/cmaketutorial/Step7/build/..\\..\\install/include/TutorialConfig.h
+C:/Users/Darthur/projects/c++/cmaketutorial/Step7/build/..\\..\\install/lib/MathFunctions.lib
+C:/Users/Darthur/projects/c++/cmaketutorial/Step7/build/..\\..\\install/include/MathFunctions.h
